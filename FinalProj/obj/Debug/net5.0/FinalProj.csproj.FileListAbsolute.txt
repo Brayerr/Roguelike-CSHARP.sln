@@ -1,0 +1,32 @@
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.exe
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.deps.json
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.runtimeconfig.json
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.runtimeconfig.dev.json
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.dll
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\ref\FinalProj.dll
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\bin\Debug\net5.0\FinalProj.pdb
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.AssemblyInfo.cs
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.dll
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\ref\FinalProj.dll
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.pdb
+C:\Users\97254\OneDrive\Desktop\Tiltan\Tiltan C# 101\Homework\FinalProj\FinalProj\obj\Debug\net5.0\FinalProj.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.exe
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.deps.json
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.runtimeconfig.json
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.dll
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\bin\Debug\net5.0\FinalProj.pdb
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.dll
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\ref\FinalProj.dll
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.pdb
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\FinalProj.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Tiltan\תכנות\FinalProj\obj\Debug\net5.0\refint\FinalProj.dll
